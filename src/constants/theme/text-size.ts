@@ -1,0 +1,9 @@
+export const TextSize8 = 8;
+export const TextSize10 = 10;
+export const TextSize12 = 12;
+export const TextSize14 = 14;
+export const TextSize16 = 16;
+export const TextSize20 = 20;
+export const TextSize24 = 24;
+export const TextSize28 = 28;
+export const TextSize32 = 32;
